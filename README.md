@@ -76,3 +76,7 @@ A heatmap visualizing the relationship between health conditions and blood types
 - Use the insights from health and blood type correlations for targeted health campaigns.  
 
 ---
+### 📩 Connect with Me
+**Shittu Segun**  
+📧 [shittusegunoluwafemi705@gmail.com](mailto:shittusegunoluwafemi705@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shittusegun01)  
